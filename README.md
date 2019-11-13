@@ -1,3 +1,5 @@
+Web Documentation: https://ucsb-cs56-f19.github.io/lab07-jacquelinemai/
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
